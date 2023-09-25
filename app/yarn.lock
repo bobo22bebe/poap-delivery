@@ -11848,12 +11848,12 @@ react-query-devtools@^2.4.2:
   dependencies:
     match-sorter "^4.1.0"
 
-react-query@^2.5.14:
-  version "2.5.14"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-2.5.14.tgz#690bd85c83fafe8dd6453a6cafb922d475a1eea4"
-  integrity sha512-uXitanViwKKKSgpEDQZLoABziZwlF9rerDJ1qundfaVYyI2bg20AglZTT9AbMoMsd9F/okhYtB0GFUkK8bOQqg==
+react-query@^2.26.4:
+  version "2.26.4"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-2.26.4.tgz#18239b4c0b61d0b744f0d4a91f566b294fa9f752"
+  integrity sha512-sXGG0gh1ah11AcfptYOCRpGDoYMnssq6riQUpQaLSM2EOodVkexp3zNLk1MFDgfRGuXQst40Tnu17oNwni66aA==
   dependencies:
-    ts-toolbelt "^6.9.4"
+    "@babel/runtime" "^7.5.5"
 
 react-reconciler@^0.24.0:
   version "0.24.0"
@@ -13943,11 +13943,6 @@ ts-pnp@^1.1.6:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
   integrity sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==
-
-ts-toolbelt@^6.9.4:
-  version "6.15.5"
-  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-6.15.5.tgz#cb3b43ed725cb63644782c64fbcad7d8f28c0a83"
-  integrity sha512-FZIXf1ksVyLcfr7M317jbB67XFJhOO1YqdTcuGaq9q5jLUoTikukZ+98TPjKiP2jC5CgmYdWWYs0s2nLSU0/1A==
 
 tsconfig-paths@^3.9.0:
   version "3.9.0"
