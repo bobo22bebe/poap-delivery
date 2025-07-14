@@ -17,11 +17,11 @@
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
-    "@walletconnect/web3-provider": "^1.2.1",
+    "@walletconnect/web3-provider": "^1.8.0",
     "constate": "^2.0.0",
     "emotion-theming": "^10.0.27",
     "ethers": "^5.0.8",
-    "gatsby": "^2.24.28",
+    "gatsby": "^5.14.0",
     "gatsby-plugin-google-analytics": "^2.3.13",
     "gatsby-plugin-manifest": "^2.4.23",
     "gatsby-plugin-offline": "^3.2.23",
@@ -33,7 +33,7 @@
     "react-icons": "^3.10.0",
     "react-modal-hook": "^3.0.0",
     "react-query": "^2.5.14",
-    "web3modal": "^1.9.0",
+    "web3modal": "^1.9.12",
     "wretch": "^1.7.2"
   },
   "husky": {
